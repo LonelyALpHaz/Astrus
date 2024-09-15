@@ -364,6 +364,7 @@ footer {
 .planet-image {
     width: 600px;
     height: 600px;
+    animation: float 7s ease-in-out infinite;
 }
 
 .image-right {
